@@ -1,0 +1,4 @@
+Nama : Adam Myswan Aji
+Usia : 28 Tahun
+Stack : Fullstack
+Bahasa Pemrograman : JAVA
